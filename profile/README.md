@@ -7,13 +7,6 @@ Yes. We are the organisation who made the disk which is small but stores 7TB. Th
 3. Balls
 
 You didn’t expect that!
-## Features
-
-- Light/dark mode
-- Live previews
-- Fullscreen mode
-- Cross platform
-
 
 ## Feedback
 
